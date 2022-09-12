@@ -1,3 +1,8 @@
+---
+layout: page
+title: "bbb"
+permalink: /bbb/
+---
 # BBB
 BBB , or Blorgon Bloberblating Blybtem, named after a certain middleware masquerading as an operating system , (that has inconveniced the author for a long time ) is a little, extremely simple IPC system that focuses only on simplicity. ONLY ON SIMPLICITY!. If you want something fast, or optimized, or reliable, use something else. This software was created more or less by an idiot who has no idea what he is doing. And it took him waaaay longer than it would normally take someone to make. It works using sockets for IPC.The arbiter listens at port 8008. It is also content agnostic, BBB doesnt care what data is sent , or in what format the user sends it. It is up to the user to parse and decode the data. BBB just gives you the start and end indices of the data.
 
