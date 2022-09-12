@@ -11,7 +11,7 @@ The author would love for someone to make an implementation in c or lua. So if y
 
 Another thing the author would like to state (emphasise , infact) is that this project , only aims to create a simple IPC system, one that can be easily understood. It should not become more complicated than it currently is. It must remain really simple.
 
-The author understands that the description provided here is quite vague. They shall be updated once the project has been tested in the real world on a real world system.
+The author understands that the description provided here is quite vague. It shall be updated once the project has been tested in the real world on a real world system.
 
 ## PROTOCOL 
 The BBB protocol maybe obtained [here](https://jfarhanm.github.io/protocol/)
@@ -129,10 +129,10 @@ This project does have a focus on modularity , so there are different ways a use
 
 
 ## Some Trivia 
-"Blorgons" are the arch enemies of The Inspector on the long running British Science fiction show "Inspector Spacetime. The author, however, go to know about them from the show community so here's a link https://community-sitcom.fandom.com/wiki/Blorgons.
+"Blorgons" are the arch enemies of The Inspector on the long running British Science fiction show "Inspector Spacetime. The author, however, go to know about them from the show community so here's a [link] (https://community-sitcom.fandom.com/wiki/Blorgons).
 
 The author also thinks that the name bodge_glue, which describes exactly what this project does, is a good fit here. The name may change in the future.
-here's a little Tom scott video, explaining what a bodge is https://www.youtube.com/watch?v=lIFE7h3m40U.
+here's a little Tom scott video, explaining what a [bodge](https://www.youtube.com/watch?v=lIFE7h3m40U) is.
 
 # FINAL WARNING
 This project was in no way meant to be used in a production environment or to be shipped to a user. The sole purpose is protoyping.
