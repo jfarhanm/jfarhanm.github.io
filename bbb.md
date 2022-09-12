@@ -129,7 +129,7 @@ This project does have a focus on modularity , so there are different ways a use
 
 
 ## Some Trivia 
-"Blorgons" are the arch enemies of The Inspector on the long running British Science fiction show "Inspector Spacetime. The author, however, go to know about them from the show community so here's a [link] (https://community-sitcom.fandom.com/wiki/Blorgons).
+"Blorgons" are the arch enemies of The Inspector on the long running British Science fiction show "Inspector Spacetime. The author, however, go to know about them from the show community so here's a [link](https://community-sitcom.fandom.com/wiki/Blorgons).
 
 The author also thinks that the name bodge_glue, which describes exactly what this project does, is a good fit here. The name may change in the future.
 here's a little Tom scott video, explaining what a [bodge](https://www.youtube.com/watch?v=lIFE7h3m40U) is.
