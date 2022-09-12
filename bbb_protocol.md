@@ -77,7 +77,8 @@ permalink: /protocol/
 
 
 
-----------------Appendix---------------------------
+			----------------Appendix---------------------------
+	
 	1. Result:
 		NOTE: Result maybe OK or ERR
 		if OK :
