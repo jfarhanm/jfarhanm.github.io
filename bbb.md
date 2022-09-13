@@ -4,7 +4,9 @@ title: "bbb"
 permalink: /bbb/
 ---
 # BBB
-BBB, or Blorgon Bloberblating Blybtem, named after a certain middleware masquerading as an operating system, (that has inconveniced the author for a long time ) is a little, extremely simple IPC system that focuses only on simplicity. ONLY ON SIMPLICITY!. If you want something fast, or optimized, or reliable, use something else. This software was created more or less by an idiot who has no idea what he is doing. And it took him waaaay longer than it would normally take someone to make. It works using sockets for IPC.The arbiter listens at port 8008. It is also content agnostic, BBB doesnt care what data is sent, or in what format the user sends it. It is up to the user to parse and decode the data. BBB just gives you the start and end indices of the data.
+BBB, or Blorgon Bloberblating Blybtem, named after a certain middleware masquerading as an operating system, (that has inconveniced the author for a long time ) is a little, extremely simple IPC system that focuses only on simplicity. ONLY ON SIMPLICITY!. If you want something fast, or optimized, or reliable, use something else. This software was created more or less by an idiot who has no idea what he is doing. And it took him waaaay longer than it would normally take someone to make. 
+
+BBB works using sockets for IPC. An arbiter, which is part of BBB listens at port 8008.BBB is also content agnostic, BBB doesnt care what data is sent, or in what format the user sends it. It is up to the user to parse and decode the data. BBB just gives you the start and end indices of the data.
 
 BBB consists mainly of a parser , for which different implementations have to be written for different languages. The author has developed implementations for python and rust.
 The author would love for someone to make an implementation in c or lua. So if you wanna contribute to this monstrosity, please!
@@ -139,12 +141,12 @@ This project does have a focus on modularity , so there are different ways a use
 
 
 ## Some Trivia 
-"Blorgons" are the arch enemies of The Inspector on the long running British Science fiction show "Inspector Spacetime. The author, however, go to know about them from the show community so here's a [link](https://community-sitcom.fandom.com/wiki/Blorgons).
+"Blorgons" are the arch enemies of The Inspector on the long running British Science fiction show "Inspector Spacetime" from the show _community_ so here's a [link](https://community-sitcom.fandom.com/wiki/Blorgons). Watch _community_ btw , it's a great show ;).
 
 The author also thinks that the name bodge_glue, which describes exactly what this project does, is a good fit here. The name may change in the future.
 here's a little Tom scott video, explaining what a [bodge](https://www.youtube.com/watch?v=lIFE7h3m40U) is.
 
 # FINAL WARNING
-This project was in no way meant to be used in a production environment or to be shipped to a user. The sole purpose is protoyping.
+This project is in no way meant to be used in a production environment or to be shipped to a user. Ever. EVER!. Prototype with it , play with it , and have fun it with it. _It's not about money, it's about sending a message_
 
 --jfm
