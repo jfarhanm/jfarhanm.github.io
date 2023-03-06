@@ -1,3 +1,8 @@
+---
+layout: page
+title: "sisyphus"
+permalink: /sisyphus/
+---
 # Documenting the creation of a new project going by the name sisyphus 
 Sisyphus is a basic robot that is to be used a platform to test the capabilities of the BBB protocol.
 Sisyphus includes a raspberry pi zero which acts as the central processing unit and a raspberry pico which controls all the hardware.
